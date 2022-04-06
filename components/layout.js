@@ -4,7 +4,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Panda8z'
+const name = 'Panda Zhang'
 const profileImagePath = '/images/profile.png'
 const faviconPath = "/favicon.ico"
 export const siteTitle = 'Next.js Sample Website'
