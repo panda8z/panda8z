@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on golang project.
 - 🤔 I’m looking for help with mathematics.
 - 💬 Ask me about golang and rust.
-- 📫 How to reach me: panda8xy@gmail.com
+- 📫 How to reach me: panda@panda8z.com
 - 😄 Pronouns: Panda
 - ⚡ Fun fact: Panda，in Chinese is “胖大”（又胖又大）.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on golang project.
 - 🤔 I’m looking for help with mathematics.
 - 💬 Ask me about golang and rust.
-- 📫 How to reach me: [panda8xy@gmail.com](mailto:panda8xy@gmail.com)
+- 📫 How to reach me: [panda@panda8z.com](mailto:panda@panda8z.com)
 - 😄 Pronouns: Panda
 - ⚡ Fun fact: Panda，in Chinese is “胖大”（又胖又大）.
 -->
