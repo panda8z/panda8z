@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently on free.
+- 🔭 I’m currently  open  to work, base Shenzhen China 🇨🇳 remote only.
 - 🌱 I’m currently learning next.js, rust programming language, and math.
 - 💬 Ask me anything with the email below.
 - 📫 How to reach me: panda@panda8z.com
